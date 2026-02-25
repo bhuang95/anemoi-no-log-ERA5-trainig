@@ -1,0 +1,83 @@
+defaults:
+- data: zarr
+- dataloader: native_grid
+- datamodule: single
+- diagnostics: evaluation
+- hardware: slurm
+- graph: encoder_decoder_only
+- model: transformer
+- training: default
+- _self_
+
+config_validation: True
+
+dataloader:
+  num_workers:
+    training: 4
+    validation: 4
+    test: 4
+  batch_size:
+    training: 1
+    validation: 1
+    test: 1
+  training:
+    dataset: /pscratch/sd/b/bhuang95/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/transfer-learning/preprocessing//trainY40-1979-2018-1.00deg/dataset.zarr
+    start: 1979
+    end: 2018
+  validation:
+    dataset: /pscratch/sd/b/bhuang95/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/transfer-learning/preprocessing//valid-2019-2020-1.00deg/dataset.zarr
+    start: 2019
+    end: 2020
+  test:
+    dataset: /pscratch/sd/b/bhuang95/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/transfer-learning/preprocessing//test-2021-2022-1.00deg/dataset.zarr
+    start: 2021
+    end: 2022
+
+diagnostics:
+  plot:
+    parameters: []
+    precip_and_related_fields: []
+    callbacks: []
+  checkpoint:
+    every_n_minutes:
+      save_frequency: null
+      num_models_saved: 0
+  log:
+    mlflow:
+      enabled: True
+      offline: True
+      authentication: False
+      log_model: False
+      tracking_uri: null
+      experiment_name: "trainY40-1979-2018-TLearning-1.00deg"
+      project_name: "TLearning-1979-2018-1.00deg"
+      system: False
+
+hardware:
+  num_gpus_per_model: 1
+  paths:
+    output: /pscratch/sd/b/bhuang95/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/transfer-learning/training//trainY40-1979-2018-1.00deg/
+    data: /pscratch/sd/b/bhuang95/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/transfer-learning/preprocessing//trainY40-1979-2018-1.00deg/
+    graph: /pscratch/sd/b/bhuang95/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/transfer-learning/training//trainY40-1979-2018-1.00deg/
+  files:
+    dataset: dataset.zarr
+
+model:
+  num_channels: 512
+  trainable_parameters:
+    data: 0
+    hidden: 0
+    data2hidden: 0
+    hidden2data: 0
+    hidden2hidden: 0
+
+training:
+  max_steps: 300_000
+  fork_run_id: null
+  load_weights_only: False
+  transfer_learning: False
+  optimizer:
+    zero: False
+    kwargs:
+      betas: [0.9, 0.95]
+      weight_decay: 0.1

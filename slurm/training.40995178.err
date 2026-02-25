@@ -1,0 +1,144 @@
+2025-07-24 16:23:05 INFO Running anemoi training command with overrides: ['--config-name=config']
+2025-07-24 16:23:05 INFO Running anemoi training command with overrides: ['--config-name=config']
+2025-07-24 16:23:05 INFO Running anemoi training command with overrides: ['--config-name=config']
+2025-07-24 16:23:05 INFO Running anemoi training command with overrides: ['--config-name=config']
+2025-07-24 16:23:05 INFO Running anemoi training command with overrides: ['--config-name=config']
+2025-07-24 16:23:05 INFO Running anemoi training command with overrides: ['--config-name=config']
+2025-07-24 16:23:05 INFO Running anemoi training command with overrides: ['--config-name=config']
+2025-07-24 16:23:05 INFO Running anemoi training command with overrides: ['--config-name=config']
+2025-07-24 16:23:05 INFO Running anemoi training command with overrides: ['--config-name=config']
+2025-07-24 16:23:05 INFO Running anemoi training command with overrides: ['--config-name=config']
+2025-07-24 16:23:05 INFO Running anemoi training command with overrides: ['--config-name=config']
+2025-07-24 16:23:05 INFO Running anemoi training command with overrides: ['--config-name=config']
+2025-07-24 16:23:05 INFO Running anemoi training command with overrides: ['--config-name=config']
+2025-07-24 16:23:05 INFO Running anemoi training command with overrides: ['--config-name=config']
+2025-07-24 16:23:05 INFO Running anemoi training command with overrides: ['--config-name=config']
+2025-07-24 16:23:05 INFO Running anemoi training command with overrides: ['--config-name=config']
+2025-07-24 16:24:23 INFO Prepending current user directory (/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training) to the search path.
+2025-07-24 16:24:23 INFO Prepending current user directory (/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training) to the search path.
+2025-07-24 16:24:23 INFO Prepending current user directory (/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training) to the search path.
+2025-07-24 16:24:23 INFO Prepending current user directory (/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training) to the search path.
+2025-07-24 16:24:23 INFO Prepending current user directory (/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training) to the search path.
+2025-07-24 16:24:23 INFO Prepending current user directory (/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training) to the search path.
+2025-07-24 16:24:23 INFO Prepending current user directory (/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training) to the search path.
+2025-07-24 16:24:23 INFO Search path is now: [provider=anemoi-cwd-searchpath-plugin, path=/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training, provider=hydra, path=pkg://hydra.conf, provider=main, path=pkg://anemoi.training/config]
+2025-07-24 16:24:23 INFO Search path is now: [provider=anemoi-cwd-searchpath-plugin, path=/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training, provider=hydra, path=pkg://hydra.conf, provider=main, path=pkg://anemoi.training/config]
+2025-07-24 16:24:23 INFO Prepending current user directory (/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training) to the search path.
+2025-07-24 16:24:23 INFO Search path is now: [provider=anemoi-cwd-searchpath-plugin, path=/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training, provider=hydra, path=pkg://hydra.conf, provider=main, path=pkg://anemoi.training/config]
+2025-07-24 16:24:23 INFO Prepending current user directory (/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training) to the search path.
+2025-07-24 16:24:23 INFO Search path is now: [provider=anemoi-cwd-searchpath-plugin, path=/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training, provider=hydra, path=pkg://hydra.conf, provider=main, path=pkg://anemoi.training/config]
+2025-07-24 16:24:23 INFO Search path is now: [provider=anemoi-cwd-searchpath-plugin, path=/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training, provider=hydra, path=pkg://hydra.conf, provider=main, path=pkg://anemoi.training/config]
+2025-07-24 16:24:23 INFO Search path is now: [provider=anemoi-cwd-searchpath-plugin, path=/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training, provider=hydra, path=pkg://hydra.conf, provider=main, path=pkg://anemoi.training/config]
+2025-07-24 16:24:23 INFO Prepending current user directory (/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training) to the search path.
+2025-07-24 16:24:23 INFO Prepending current user directory (/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training) to the search path.
+2025-07-24 16:24:23 INFO Prepending current user directory (/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training) to the search path.
+2025-07-24 16:24:23 INFO Search path is now: [provider=anemoi-cwd-searchpath-plugin, path=/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training, provider=hydra, path=pkg://hydra.conf, provider=main, path=pkg://anemoi.training/config]
+2025-07-24 16:24:23 INFO Prepending current user directory (/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training) to the search path.
+2025-07-24 16:24:23 INFO Search path is now: [provider=anemoi-cwd-searchpath-plugin, path=/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training, provider=hydra, path=pkg://hydra.conf, provider=main, path=pkg://anemoi.training/config]
+2025-07-24 16:24:23 INFO Prepending current user directory (/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training) to the search path.
+2025-07-24 16:24:23 INFO Prepending current user directory (/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training) to the search path.
+2025-07-24 16:24:23 INFO Search path is now: [provider=anemoi-cwd-searchpath-plugin, path=/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training, provider=hydra, path=pkg://hydra.conf, provider=main, path=pkg://anemoi.training/config]
+2025-07-24 16:24:23 INFO Prepending current user directory (/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training) to the search path.
+2025-07-24 16:24:23 INFO Search path is now: [provider=anemoi-cwd-searchpath-plugin, path=/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training, provider=hydra, path=pkg://hydra.conf, provider=main, path=pkg://anemoi.training/config]
+2025-07-24 16:24:23 INFO Search path is now: [provider=anemoi-cwd-searchpath-plugin, path=/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training, provider=hydra, path=pkg://hydra.conf, provider=main, path=pkg://anemoi.training/config]
+2025-07-24 16:24:23 INFO Search path is now: [provider=anemoi-cwd-searchpath-plugin, path=/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training, provider=hydra, path=pkg://hydra.conf, provider=main, path=pkg://anemoi.training/config]
+2025-07-24 16:24:23 INFO Search path is now: [provider=anemoi-cwd-searchpath-plugin, path=/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training, provider=hydra, path=pkg://hydra.conf, provider=main, path=pkg://anemoi.training/config]
+2025-07-24 16:24:23 INFO Search path is now: [provider=anemoi-cwd-searchpath-plugin, path=/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training, provider=hydra, path=pkg://hydra.conf, provider=main, path=pkg://anemoi.training/config]
+2025-07-24 16:24:23 INFO Search path is now: [provider=anemoi-cwd-searchpath-plugin, path=/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training, provider=hydra, path=pkg://hydra.conf, provider=main, path=pkg://anemoi.training/config]
+2025-07-24 16:24:23 INFO Search path is now: [provider=anemoi-cwd-searchpath-plugin, path=/global/u1/b/bhuang95/sorc/fromTim/anemoi/V20250603/anemoi-house/replay/atmosphere-subsampled/no-log-ERA5/training, provider=hydra, path=pkg://hydra.conf, provider=main, path=pkg://anemoi.training/config]
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/cutoff.py:186: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/cutoff.py:186: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/cutoff.py:186: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/cutoff.py:186: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/cutoff.py:186: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/cutoff.py:186: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/cutoff.py:186: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/cutoff.py:186: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/cutoff.py:186: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/cutoff.py:186: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/cutoff.py:186: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/cutoff.py:186: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/cutoff.py:186: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/cutoff.py:186: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/cutoff.py:186: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/cutoff.py:186: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/knn.py:117: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/knn.py:117: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/knn.py:117: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/knn.py:117: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/knn.py:117: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/knn.py:117: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/knn.py:117: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/knn.py:117: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/knn.py:117: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/knn.py:117: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/knn.py:117: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/knn.py:117: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/knn.py:117: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/knn.py:117: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/knn.py:117: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/graphs/edges/builders/knn.py:117: UserWarning: The 'torch-cluster' library is not installed. Installing 'torch-cluster' can significantly improve performance for graph creation. You can install it using 'pip install torch-cluster'.
+  warnings.warn(
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/utils/provenance.py:148: UserWarning: The '__version__' attribute is deprecated and will be removed in MarkupSafe 3.1. Use feature detection, or `importlib.metadata.version("markupsafe")`, instead.
+  versions[name] = str(module.__version__)
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/utils/provenance.py:148: UserWarning: The '__version__' attribute is deprecated and will be removed in MarkupSafe 3.1. Use feature detection, or `importlib.metadata.version("markupsafe")`, instead.
+  versions[name] = str(module.__version__)
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/utils/provenance.py:148: UserWarning: The '__version__' attribute is deprecated and will be removed in MarkupSafe 3.1. Use feature detection, or `importlib.metadata.version("markupsafe")`, instead.
+  versions[name] = str(module.__version__)
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/utils/provenance.py:148: UserWarning: The '__version__' attribute is deprecated and will be removed in MarkupSafe 3.1. Use feature detection, or `importlib.metadata.version("markupsafe")`, instead.
+  versions[name] = str(module.__version__)
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/utils/provenance.py:148: UserWarning: The '__version__' attribute is deprecated and will be removed in MarkupSafe 3.1. Use feature detection, or `importlib.metadata.version("markupsafe")`, instead.
+  versions[name] = str(module.__version__)
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/utils/provenance.py:148: UserWarning: The '__version__' attribute is deprecated and will be removed in MarkupSafe 3.1. Use feature detection, or `importlib.metadata.version("markupsafe")`, instead.
+  versions[name] = str(module.__version__)
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/utils/provenance.py:148: UserWarning: The '__version__' attribute is deprecated and will be removed in MarkupSafe 3.1. Use feature detection, or `importlib.metadata.version("markupsafe")`, instead.
+  versions[name] = str(module.__version__)
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/utils/provenance.py:148: UserWarning: The '__version__' attribute is deprecated and will be removed in MarkupSafe 3.1. Use feature detection, or `importlib.metadata.version("markupsafe")`, instead.
+  versions[name] = str(module.__version__)
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/utils/provenance.py:148: UserWarning: The '__version__' attribute is deprecated and will be removed in MarkupSafe 3.1. Use feature detection, or `importlib.metadata.version("markupsafe")`, instead.
+  versions[name] = str(module.__version__)
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/utils/provenance.py:148: UserWarning: The '__version__' attribute is deprecated and will be removed in MarkupSafe 3.1. Use feature detection, or `importlib.metadata.version("markupsafe")`, instead.
+  versions[name] = str(module.__version__)
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/utils/provenance.py:148: UserWarning: The '__version__' attribute is deprecated and will be removed in MarkupSafe 3.1. Use feature detection, or `importlib.metadata.version("markupsafe")`, instead.
+  versions[name] = str(module.__version__)
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/utils/provenance.py:148: UserWarning: The '__version__' attribute is deprecated and will be removed in MarkupSafe 3.1. Use feature detection, or `importlib.metadata.version("markupsafe")`, instead.
+  versions[name] = str(module.__version__)
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/utils/provenance.py:148: UserWarning: The '__version__' attribute is deprecated and will be removed in MarkupSafe 3.1. Use feature detection, or `importlib.metadata.version("markupsafe")`, instead.
+  versions[name] = str(module.__version__)
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/utils/provenance.py:148: UserWarning: The '__version__' attribute is deprecated and will be removed in MarkupSafe 3.1. Use feature detection, or `importlib.metadata.version("markupsafe")`, instead.
+  versions[name] = str(module.__version__)
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/utils/provenance.py:148: UserWarning: The '__version__' attribute is deprecated and will be removed in MarkupSafe 3.1. Use feature detection, or `importlib.metadata.version("markupsafe")`, instead.
+  versions[name] = str(module.__version__)
+/global/homes/b/bhuang95/.conda/envs/anemoi/lib/python3.11/site-packages/anemoi/utils/provenance.py:148: UserWarning: The '__version__' attribute is deprecated and will be removed in MarkupSafe 3.1. Use feature detection, or `importlib.metadata.version("markupsafe")`, instead.
+  versions[name] = str(module.__version__)
